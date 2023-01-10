@@ -1,0 +1,2 @@
+Distributed version control system?
+A distributed version control system (DVCS) brings a local copy of the complete repository to every team member's computer, so they can commit, branch, and merge locally. The server doesn't have to store a physical file for each branch - it just needs the differences between each commit.
